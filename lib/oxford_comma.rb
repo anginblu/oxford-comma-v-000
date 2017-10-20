@@ -7,4 +7,6 @@ def oxford_comma(array)
  end
  else
    array.pop.join
+ end
+ 
 end
